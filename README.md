@@ -1,6 +1,6 @@
-# Redi Hoxha
+# Hi, I'm Redi Hoxha 😊
 
-## Embracing the Fusion of IT and Art 🎨💻
+## Embracing the Fusion of IT and Art 🎨🎵💻
 
 Welcome to my GitHub profile! I'm Redi Hoxha, a passionate individual based in Milan, constantly seeking the harmony between my love for IT and the creativity of art. My natural habitat lies in dynamic, organized environments where I thrive in synergistic teams with ambitious goals.
 
