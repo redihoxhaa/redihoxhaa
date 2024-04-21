@@ -33,6 +33,7 @@ Welcome to my GitHub profile! I'm Redi Hoxha, a passionate individual based in M
   - PHP
   - MySQL
   - Laravel
+  - Data Structures and Algorithms
 
 - **Additional Tools & Software:**
   - SAP
