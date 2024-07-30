@@ -35,6 +35,10 @@ Welcome to my GitHub profile! I'm Redi Hoxha, a passionate individual based in M
   - Laravel
   - Data Structures and Algorithms
 
+- **Mobile Development:**
+  - Swift
+  - SwiftUI
+
 - **Additional Tools & Software:**
   - SAP
   - FL Studio
